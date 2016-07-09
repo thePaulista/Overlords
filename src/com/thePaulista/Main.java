@@ -29,3 +29,8 @@ public class Main {
 
 }
 
+//        Player Piper score 500 points
+//        New score is 500000
+//        Unnamed player scored 4 points
+//        New score for unnamed player is 4000
+//        No player name, no player score.
